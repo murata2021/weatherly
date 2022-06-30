@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Weatherly
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Weatherly is hosted on: https://weatherly-mya.surge.sh/
+
+## API LIST
+
+1) https://openweathermap.org/api
+2) https://developer.mapquest.com/documentation/geocoding-api/
 
 ## Available Scripts
 
